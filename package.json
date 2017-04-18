@@ -1,7 +1,7 @@
 {
   "name": "test-dep-installer",
   "main": "./lib/test-dep-installer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/reqw/test-dep-installer",
