@@ -4,9 +4,6 @@
   "version": "1.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "test-dep-installer:toggle"
-  },
   "repository": "https://github.com/reqw/test-dep-installer",
   "license": "MIT",
   "engines": {
